@@ -1,0 +1,52 @@
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe.config
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Debug\Marangoz İşletme.pdb
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Debug\MetroSet UI.dll
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Form1.resources
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Properties.Resources.resources
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.GenerateResource.cache
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CopyComplete
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.exe
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.pdb
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Debug\Marangoz İşletme.csprojAssemblyReference.cache
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe.config
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.pdb
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\MetroSet UI.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.xml
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BERKAY\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.xml
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csprojAssemblyReference.cache
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Form1.resources
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Properties.Resources.resources
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.GenerateResource.cache
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.exe
+C:\Users\BERKAY\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.pdb
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe.config
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.exe
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\Marangoz İşletme.pdb
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\MetroSet UI.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.xml
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ceren\Desktop\Marangoz İşletme\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csprojAssemblyReference.cache
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Form1.resources
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz_İşletme.Properties.Resources.resources
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.GenerateResource.cache
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.csproj.CopyComplete
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.exe
+C:\Users\Ceren\Desktop\Marangoz İşletme\obj\Debug\Marangoz İşletme.pdb

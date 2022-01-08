@@ -1,0 +1,11 @@
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Release\Marangoz İşletme.exe.config
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Release\Marangoz İşletme.exe
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Release\Marangoz İşletme.pdb
+C:\Users\Ceren\source\repos\Marangoz İşletme\bin\Release\MetroSet UI.dll
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz_İşletme.Form1.resources
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz_İşletme.Properties.Resources.resources
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz İşletme.csproj.GenerateResource.cache
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz İşletme.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz İşletme.csproj.CopyComplete
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz İşletme.exe
+C:\Users\Ceren\source\repos\Marangoz İşletme\obj\Release\Marangoz İşletme.pdb
